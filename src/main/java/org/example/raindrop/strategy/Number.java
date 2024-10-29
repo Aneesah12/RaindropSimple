@@ -1,4 +1,4 @@
-package org.example;
+package org.example.raindrop.strategy;
 
 public class Number {
     public static boolean  contains(int i, String s) {
